@@ -1,5 +1,0 @@
-Saved\
-Intermediate\
-vs\
-Build\
-*.sln
